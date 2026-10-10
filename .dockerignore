@@ -1,0 +1,12 @@
+# 仮想環境・キャッシュ
+__pycache__/
+.pytest_cache/
+venv/
+
+# テスト関連
+test_main.py
+pytest.ini
+
+# その他
+.dockerignore
+.git/
